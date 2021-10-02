@@ -7,8 +7,8 @@ const FILES_TO_CACHE = [
   "./public/css/styles.css",
   "./public/js/index.js",
   "./public/index.html",
-  "./server.js",
   "./public/js/idb.js",
+  "./server.js",
 ];
 
 // install
