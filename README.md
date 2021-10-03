@@ -34,7 +34,7 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 ```
 ### Usage 
-Privide name of transaction in first input filed "Name of transaction", enter amount in next input field "transaction amount". Then, you need to decide it is your funds (+ Add funds button) or expences (- Subtract funds button). 
+Privide name of transaction in first input field "Name of transaction", enter amount in next input field "transaction amount". Then, you need to decide it is your funds (+ Add funds button) or expences (- Subtract funds button). 
 
 ### Features
 - HTML
